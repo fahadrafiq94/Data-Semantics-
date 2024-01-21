@@ -1,5 +1,5 @@
 # Data-Semantics-
-This repository contains the presentation slides, class assignments and final project.
+This repository contains the presentation slides, class assignments and the final project.
 
 1- Text Generation using Markov Chains:
 
@@ -25,4 +25,4 @@ Group Members:
 Fahad Rafique 
 Syeda Bushra Najeeb
 Dharana Dharana
-Tanaya Sharma 
+Tanya Sharma 
